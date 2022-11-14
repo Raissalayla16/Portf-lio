@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+a.name {
+    color: #007fff;
+    line-height: 1;
+    display: inline-block;
+    font-size: 40px;
+}
+.nav-link{
+    color: aliceblue;
+}
