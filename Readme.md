@@ -1,1 +1,1 @@
-Projeto de criação de uma página com meu postifólio
+Projeto de criação de uma página com meu portfólio
